@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+# Trial edition for the 7th activity (yeah I don't feel much creative xP)
 Use the left arrow to go back!
